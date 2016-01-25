@@ -33,7 +33,6 @@ homebrew_installed_packages:
   - go
   - pow
   - heroku-toolbelt
-  - macvim
   - sqlite
   - postgresql
 
