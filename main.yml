@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  user: jgeerling
+  user: bob
   connection: local
 
   vars_files:
