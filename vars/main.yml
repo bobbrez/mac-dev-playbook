@@ -18,23 +18,23 @@ dotfiles_files:
 homebrew_installed_packages:
   - autoconf
   - bash-completion
-  - imagemagick
   - git
+  - go
+  - heroku-toolbelt
+  - imagemagick
+  - ngrok
+  - node
   - openssl
+  - postgresql
+  - pow
+  - pyenv
+  - rbenv
+  - ruby-build  
+  - sbt
+  - sqlite
   - the_silver_searcher
   - wget
-  - ngrok
   - wrk
-  - rbenv
-  - ruby-build
-  - pyenv
-  - sbt
-  - node
-  - go
-  - pow
-  - heroku-toolbelt
-  - sqlite
-  - postgresql
 
 homebrew_taps:
   - caskroom/cask
@@ -45,12 +45,14 @@ homebrew_taps:
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - arduino
-  - google-chrome
   - dropbox
+  - eclipse-ide
+  - google-chrome
+  - iterm2
   - macvim
+  - postico
   - sequel-pro
   - skype
-  - postico
   - tower
-  - vlc
   - virtualbox
+  - vlc
