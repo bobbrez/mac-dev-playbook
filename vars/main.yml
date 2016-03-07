@@ -50,7 +50,6 @@ homebrew_cask_apps:
   - google-chrome
   - iterm2
   - macvim
-  - postico
   - sequel-pro
   - skype
   - tower
