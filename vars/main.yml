@@ -18,6 +18,7 @@ dotfiles_files:
 homebrew_installed_packages:
   - autoconf
   - bash-completion
+  - elixir
   - git
   - go
   - heroku-toolbelt
@@ -49,8 +50,8 @@ homebrew_cask_apps:
   - iterm2
   - macvim
   - ngrok
-  - sequel-pro
   - skype
+  - spectacle
   - tower
   - virtualbox
   - vlc
