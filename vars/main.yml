@@ -29,7 +29,6 @@ homebrew_installed_packages:
   - pyenv
   - rbenv
   - ruby-build  
-  - sbt
   - sqlite
   - the_silver_searcher
   - wget
