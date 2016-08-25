@@ -24,6 +24,7 @@ homebrew_installed_packages:
   - go
   - heroku-toolbelt
   - imagemagick
+  - macvim
   - node
   - openssl
   - postgresql
@@ -50,7 +51,6 @@ homebrew_cask_apps:
   - eclipse-ide
   - google-chrome
   - iterm2
-  - macvim
   - ngrok
   - skype
   - spectacle
