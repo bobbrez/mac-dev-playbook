@@ -7,13 +7,14 @@ dotfiles_repo: https://github.com/bobbrez/dotfiles.git
 dotfiles_repo_local_destination: ~/.dotfiles
 dotfiles_files:
   - .bash_profile
+  - .gemrc
   - .gitconfig
   - .gitignore
   - .inputrc
-  - .osx
-  - .vimrc
   - .irbrc
-  - .gemrc
+  - .osx
+  - .tmux.conf
+  - .vimrc
 
 homebrew_installed_packages:
   - autoconf
